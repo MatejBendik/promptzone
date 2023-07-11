@@ -1,5 +1,5 @@
 import { connectToDB } from "@utils/database";
-import Prompt from "@models/Prompt";
+import Prompt from "@models/prompt";
 
 // GET - read
 
